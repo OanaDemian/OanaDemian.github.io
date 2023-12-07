@@ -10,6 +10,11 @@ Chitter is a social networking app, which allows registered, signed in users to 
 
 This is a social networking app. As a user, you can create new peeps, view everyone's peeps, as well as sign up, sign in and logout. Only logged in users can create new peeps. When not logged in, the Sign Up, Login and Peeps  buttons are visible. While logged in, only the Peep and Sign Out buttons are visible to the user.
 
+#### Links
+
+- See the [site](https://chitter-frontend.onrender.com/) (it's hosted on Render, so if it's not been hit recently it might take a minute to start)  
+- See the [code](https://github.com/OanaDemian/chitter-MERN)
+
 ## Features
 
 A user can:
