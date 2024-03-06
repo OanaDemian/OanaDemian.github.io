@@ -18,14 +18,6 @@ const Hero = () => (
           Applied Behaviour Analysis and Special Needs Education. I would like
           to be part of a team that creates products aimed at making the world
           better and I think technology is a way to do this at a grand scale.{' '}
-          {/* <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
-          </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
-          </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore. */}
         </>
       }
       avatar={

@@ -16,6 +16,24 @@ const ProjectList = () => (
   >
     <div className="flex flex-col gap-6">
       <Project
+        name="Variable Ratio Generator"
+        description="A simple app written in React and MUI that allows the user to generate a sequence of number that average a given value."
+        link="/posts/variable-ratio-generator/"
+        img={{
+          src: '/assets/images/reward.png',
+          alt: 'reward cup',
+        }}
+        category={
+          <>
+            <Tags color={ColorTags.YELLOW}>React</Tags>
+            <Tags color={ColorTags.ROSE}>JavaScript</Tags>
+            <Tags color={ColorTags.BLUE}>MUI</Tags>
+            <Tags color={ColorTags.PURPLE}>Vite</Tags>
+            <Tags color={ColorTags.INDIGO}>Vitest</Tags>
+          </>
+        }
+      />
+      <Project
         name="News Challenge"
         description="A single page application in Vite + React that send requests to the Guardian API to get Headline and Article data and display them. Styled with CSS."
         link="/posts/news/"
